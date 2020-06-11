@@ -50,9 +50,9 @@ const LandingPage = (props) => {
         <div className={classes.container}>
           <GridContainer>
             <GridItem xs={12} sm={12} md={6}>
-              <h1 className={classes.title}>Hello I'm</h1>
+              <h1 className={classes.title}>Hello World. </h1>
               <h4 className={classes.subtitle}>
-                Kevin. <br />
+                I'm Kevin. <br />
                 <span style={{ color: "#7A7D7A" }}>Automation Specialist</span> <br />
                 <span style={{ color: "#7A7D7A" }}>Web Application Developer</span>
               </h4>
